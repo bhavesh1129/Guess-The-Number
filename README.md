@@ -1,4 +1,4 @@
-# This is how this code works
+# This is how this Game works
 
 <img src="https://github.com/bhavesh1129/Guess-The-Number/blob/master/guessingGame.PNG" width="400" height="400">
 
